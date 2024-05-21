@@ -9,3 +9,6 @@ First, I plotted the moving 20-year average of the data set using spectral analy
 
 
 Next, I used time series forecasting to forecast the next 20 years. These results were compelling in that it indicated a deceleration of sea surface temperatures. 
+
+
+The file that performed the analysis is located in this repository and is called: DATA_3320_01_Climate_Justin_Ishida.ipynb
